@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment1
+namespace KnightsTour
 {
     partial class ControlMethods : Control
     {

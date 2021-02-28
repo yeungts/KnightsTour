@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
-namespace Assignment1
+namespace KnightsTour
 {
     public partial class MainForm : Form
     {
